@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Popins', sans-serif;
+}
+body{
+    background-color: rgba(247, 255, 242, 0.979);
+}
+h1{
+    color: deepskyblue;
+    text-align: center;
+    margin: 20px auto;
+    text-shadow: 1px 1px 1px darkslategrey;
+    
+}
+div{
+    height: 350px;
+    width: 300px;
+    border: 1px solid rgba(230, 230, 230, 0.74);
+    margin: 50px auto;
+    position: flex;
+    flex-direction: column;
+}
+ul{
+    list-style-type: none;
+    padding-inline-start: 0px; 
+}
+li{
+    background-color: rgb(224, 243, 250);
+    margin: 5px;
+    line-height: 30px;
+    padding-left: 10px;
+    border: 1px solid rgb(86, 135, 151);
+}
+li:hover{
+    background-color: dodgerblue;
+    cursor: pointer;
+}
+#unesi{
+    height: 30px;
+    width: 250px;
+    margin: 10px 20px;
+    padding-left: 10px ;   
+}
+
+#dodaj{
+    margin: 10px 35px;
+    height: 40px;
+    width: 220px;
+    font-size: 110%;
+    background-color: dodgerblue;
+    box-shadow: 1px 1px;   
+}
+#dodaj:active{
+    width: 230px;
+    height: 50px;
+    background-color: rgb(38, 56, 73);
+    color: aliceblue;
+}
+#dodajNaPocetak{
+    margin: 10px 20px;
+}
+#dodajNaKraj{
+    margin: 10px 20px;
+}
+
+
+
+
+
