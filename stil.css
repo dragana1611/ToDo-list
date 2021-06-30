@@ -20,7 +20,7 @@ div{
     height: 350px;
     width: 300px;
     border: 1px solid rgba(230, 230, 230, 0.74);
-    margin: 50px auto;
+    margin: 50px 0 250px auto;
     position: flex;
     flex-direction: column;
 }
