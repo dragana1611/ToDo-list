@@ -6,6 +6,8 @@
 }
 body{
     background-color: rgba(247, 255, 242, 0.979);
+    background: url(todo2.jpg) no-repeat center center;
+    background-size: cover;
 }
 h1{
     color: deepskyblue;
